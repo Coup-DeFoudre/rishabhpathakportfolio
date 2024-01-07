@@ -14,7 +14,7 @@
 					{
 						"type": "paragraph",
 						"content": {
-							"text": "Aliquip laboris non labore ea id labore aliquip labore consectetur ea. Ad voluptate sunt id id."
+							"text": "Nostrud officia occaecat id cillum aute in laboris occaecat ex consequat voluptate do irure. Consectetur sunt tempor laborum ad ut ea anim dolore anim. Duis magna non amet aute non anim amet ullamco ea sit qui consequat officia."
 						}
 					}
 				]
@@ -32,7 +32,6 @@
 				}
 			},
 			"avatar": {
-				"__TYPE__": "ImageContent",
 				"origin": {
 					"id": "main",
 					"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
@@ -50,6 +49,9 @@
 					},
 					"background": "transparent"
 				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
 				"thumbnails": {}
 			}
 		},
