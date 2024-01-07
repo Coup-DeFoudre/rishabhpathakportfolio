@@ -71,7 +71,7 @@ export default function Avtar({ image, className }: AvtarProps) {
 
   return (
     <div ref={component} className={clsx("relative h-full w-full", className)}>
-      <div className="avatar aspect-square overflow-hidden rounded-full border-2 border-red-700 opacity-0">
+      <div className="avatar  overflow-hidden rounded-lg border-2 border-yellow-400 opacity-0">
         <PrismicNextImage
           alt=""
           field={image}
